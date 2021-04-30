@@ -1,0 +1,18 @@
+ADMIN:
+meno: admin
+heslo: nbusr123
+
+ZÁKAZNÍK:
+meno: alenakovacova97
+heslo: AlKov1997hNr54cD
+
+meno: patonovotny
+heslo: vhjct7if68cg
+
+
+ZAMESTNANEC:
+meno: jarobucko
+heslo: 19jaroraybank88
+
+meno: ivanap
+heslo: dWx68bE25asjG

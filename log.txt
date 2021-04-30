@@ -1,0 +1,296 @@
+Apr 25, 2021 5:18:58 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 5:19:18 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:20:36 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:22:15 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:22:51 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:23:20 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:23:38 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:24:06 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:25:23 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:25:50 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:27:49 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:28:30 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:31:46 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:32:00 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 25, 2021 6:32:08 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 25, 2021 6:32:38 PM view.ReportPopup btSaveActionPerformed
+WARNING: Invalid date range
+Apr 25, 2021 6:32:56 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:40:13 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:40:51 PM view.ReportPopup btSaveActionPerformed
+WARNING: Invalid date range
+Apr 25, 2021 6:41:06 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:41:27 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:42:51 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:43:23 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:43:40 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:44:04 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:52:41 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:53:43 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 25, 2021 6:55:23 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 25, 2021 6:55:45 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:14:36 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:14:43 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 26, 2021 12:22:22 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:24:54 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:24:58 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:26:58 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:31:31 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:35:04 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:35:46 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 26, 2021 12:42:12 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:42:48 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:43:51 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:45:21 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 12:45:50 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 12:57:44 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 1:00:15 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 26, 2021 1:03:21 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 1:03:23 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 1:04:04 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 4:35:01 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 4:45:33 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 4:52:48 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 4:53:12 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 6:12:24 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 6:12:27 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 6:12:47 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 6:28:25 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 6:31:24 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 6:34:22 PM view.MainFrame btRegisterEmployeeConfirmActionPerformed
+WARNING: Some of the required values were not specified in employee registration. (user: admin)
+Apr 26, 2021 6:34:42 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 6:37:46 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 6:37:58 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Incorrect email address format specified in customer registration.
+Apr 26, 2021 6:38:19 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Incorrect email address format specified in customer registration.
+Apr 26, 2021 6:38:25 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Incorrect email address format specified in customer registration.
+Apr 26, 2021 6:38:36 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Incorrect email address format specified in customer registration.
+Apr 26, 2021 6:38:45 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 6:39:23 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 6:39:42 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Username specified in customer registration is already in use.
+Apr 26, 2021 6:40:12 PM view.MainFrame btRegisterEmployeeConfirmActionPerformed
+WARNING: Incorrect email address format specified in employee registration. (user: admin)
+Apr 26, 2021 6:40:40 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 26, 2021 6:43:15 PM view.MainFrame btPayActionPerformed
+WARNING: Insufficient funds for payment. (user: alenakovacova97)
+Apr 26, 2021 6:43:29 PM view.MainFrame btWithdrawal1ActionPerformed
+WARNING: Insufficient funds for withdrawal. (user: alenakovacova97)
+Apr 26, 2021 6:44:01 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 8:34:55 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 8:35:43 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Some of the required values were not specified in customer registration.
+Apr 26, 2021 8:35:59 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 8:37:59 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 8:38:49 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 8:45:30 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 8:46:24 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 8:47:06 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 8:47:50 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 9:29:29 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 9:30:20 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Some of the required values were not specified in customer registration.
+Apr 26, 2021 9:30:34 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 9:31:07 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 9:31:11 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 9:31:29 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 9:32:59 PM view.MainFrame btRegisterConfirmActionPerformed
+WARNING: Some of the required values were not specified in customer registration.
+Apr 26, 2021 9:33:39 PM view.MainFrame btRegisterEmployeeConfirmActionPerformed
+WARNING: Some of the required values were not specified in employee registration. (user: admin)
+Apr 26, 2021 9:33:57 PM view.MainFrame btConfirmDepositActionPerformed
+WARNING: No unconfirmed deposit selected to confirm. (user: jarobucko)
+Apr 26, 2021 9:37:09 PM view.MainFrame btPayActionPerformed
+WARNING: Insufficient funds for payment. (user: alenakovacova97)
+Apr 26, 2021 9:38:42 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:30:12 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:30:21 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:30:40 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:34:35 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:36:46 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:37:38 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:38:12 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:39:16 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:42:32 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:43:30 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:46:35 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:46:57 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:51:00 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:52:31 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:54:03 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:54:38 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:55:53 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:56:05 PM view.MainFrame btLoginActionPerformed
+WARNING: Incorrect login credentials were used.
+Apr 26, 2021 10:56:20 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:58:11 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 10:58:30 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 10:58:51 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:01:28 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:01:47 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:03:35 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:05:08 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:05:29 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:06:08 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:08:20 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:09:38 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:10:03 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:12:12 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:15:00 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:15:03 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:15:18 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:21:44 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:23:04 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:25:10 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:27:31 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:27:33 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:28:06 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:29:41 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:30:30 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:38:35 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:39:03 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:39:40 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:39:58 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:42:42 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:43:18 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 26, 2021 11:48:15 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 26, 2021 11:48:38 PM view.ReportPopup btSaveActionPerformed
+WARNING: Invalid date range
+Apr 26, 2021 11:48:53 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 27, 2021 12:01:11 AM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 27, 2021 12:03:44 AM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
+Apr 27, 2021 12:04:31 AM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+Apr 27, 2021 12:04:53 AM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----

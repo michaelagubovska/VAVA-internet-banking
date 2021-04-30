@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_271" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Admin">
+    <void property="address">
+     <string>Staromestská 3, 12345 Šaštín Stráže</string>
+    </void>
+    <void property="birthdate">
+     <object class="java.util.Date">
+      <long>616716000000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>adam.admin@raybank.sk</string>
+    </void>
+    <void property="name">
+     <string>Adam</string>
+    </void>
+    <void property="password">
+     <string>nbusr123</string>
+    </void>
+    <void property="surname">
+     <string>Adminovič</string>
+    </void>
+    <void property="username">
+     <string>admin</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Employee">
+    <void property="address">
+     <string>Kvetinová 34, Bratisalva</string>
+    </void>
+    <void property="birthdate">
+     <object class="java.util.Date">
+      <long>583970400000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>jaromir.bucko@raybank.sk</string>
+    </void>
+    <void property="name">
+     <string>Jaromír</string>
+    </void>
+    <void property="password">
+     <string>19jaroraybank88</string>
+    </void>
+    <void property="position">
+     <string>manažér</string>
+    </void>
+    <void property="surname">
+     <string>Bučko</string>
+    </void>
+    <void property="username">
+     <string>jarobucko</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Employee">
+    <void property="address">
+     <string>Hlavná 162, Dolná Streda</string>
+    </void>
+    <void property="birthdate">
+     <object class="java.util.Date">
+      <long>700182000000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>ivana.podhorska@raybank.sk</string>
+    </void>
+    <void property="name">
+     <string>Ivana</string>
+    </void>
+    <void property="password">
+     <string>dWx68bE25asjG</string>
+    </void>
+    <void property="position">
+     <string>bankár</string>
+    </void>
+    <void property="surname">
+     <string>Podhorská</string>
+    </void>
+    <void property="username">
+     <string>ivanap</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Customer" id="Customer0">
+    <void property="account">
+     <object class="model.Account" id="Account0">
+      <void property="balance">
+       <object class="java.math.BigDecimal">
+        <string>129.50</string>
+       </object>
+      </void>
+      <void property="iban">
+       <string>SK0523490000007808689187</string>
+      </void>
+      <void property="owner">
+       <object idref="Customer0"/>
+      </void>
+      <void property="type">
+       <string>Bežný</string>
+      </void>
+     </object>
+    </void>
+    <void property="address">
+     <string>Stromová 5, Kvetoslavov</string>
+    </void>
+    <void property="birthdate">
+     <object class="java.util.Date">
+      <long>877730400000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>alenakovac@gmail.com</string>
+    </void>
+    <void property="name">
+     <string>Alena</string>
+    </void>
+    <void property="password">
+     <string>AlKov1997hNr54cD</string>
+    </void>
+    <void property="surname">
+     <string>Kováčová</string>
+    </void>
+    <void property="username">
+     <string>alenakovacova97</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Customer" id="Customer1">
+    <void property="account">
+     <object class="model.Account" id="Account1">
+      <void property="balance">
+       <object class="java.math.BigDecimal">
+        <string>80.50</string>
+       </object>
+      </void>
+      <void property="iban">
+       <string>SK0523490000001347654535</string>
+      </void>
+      <void property="owner">
+       <object idref="Customer1"/>
+      </void>
+      <void property="type">
+       <string>Študentský</string>
+      </void>
+     </object>
+    </void>
+    <void property="address">
+     <string>Generála Štefánika 18, Púchov</string>
+    </void>
+    <void property="birthdate">
+     <object class="java.util.Date">
+      <long>1031954400000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>novotny-pa3k@yahoo.com</string>
+    </void>
+    <void property="name">
+     <string>Patrik</string>
+    </void>
+    <void property="password">
+     <string>vhjct7if68cg</string>
+    </void>
+    <void property="surname">
+     <string>Novotný</string>
+    </void>
+    <void property="username">
+     <string>patonovotny</string>
+    </void>
+   </object>
+  </void>
+ </object>
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.Deposit">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>50.00</string>
+     </object>
+    </void>
+    <void property="confirmed">
+     <boolean>true</boolean>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account0"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619362311398</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Payment">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>20.50</string>
+     </object>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account0"/>
+    </void>
+    <void property="receiverAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619362417837</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Withdrawal">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>10.00</string>
+     </object>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619362561106</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Deposit">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>100.00</string>
+     </object>
+    </void>
+    <void property="confirmed">
+     <boolean>true</boolean>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account0"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619434797817</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Deposit">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>50.00</string>
+     </object>
+    </void>
+    <void property="confirmed">
+     <boolean>true</boolean>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619448163848</long>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
