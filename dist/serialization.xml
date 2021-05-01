@@ -94,7 +94,7 @@
      <object class="model.Account" id="Account0">
       <void property="balance">
        <object class="java.math.BigDecimal">
-        <string>129.50</string>
+        <string>144.50</string>
        </object>
       </void>
       <void property="iban">
@@ -139,7 +139,7 @@
      <object class="model.Account" id="Account1">
       <void property="balance">
        <object class="java.math.BigDecimal">
-        <string>80.50</string>
+        <string>95.50</string>
        </object>
       </void>
       <void property="iban">
@@ -273,6 +273,63 @@
     <void property="timestamp">
      <object class="java.util.Date">
       <long>1619448163848</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Payment">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>15.00</string>
+     </object>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="receiverAccount">
+     <object idref="Account0"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619898710603</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Withdrawal">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>20.00</string>
+     </object>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619898723566</long>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.Deposit">
+    <void property="amount">
+     <object class="java.math.BigDecimal">
+      <string>50.00</string>
+     </object>
+    </void>
+    <void property="confirmed">
+     <boolean>true</boolean>
+    </void>
+    <void property="initiatorAccount">
+     <object idref="Account1"/>
+    </void>
+    <void property="timestamp">
+     <object class="java.util.Date">
+      <long>1619898755131</long>
      </object>
     </void>
    </object>

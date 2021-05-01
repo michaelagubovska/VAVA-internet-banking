@@ -64,7 +64,10 @@ public class Account {
             }
             
             for (int index = 0; index < input.size(); index++) {
-                if (((Account) input.get(index)).getIban().equals(newIban)) unique = false;
+                if (((Account) input.get(index)).getIban().equals(newIban)) {
+                    unique = false;
+                    break;
+                }
             }
           
 	}

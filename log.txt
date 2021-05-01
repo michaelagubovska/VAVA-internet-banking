@@ -294,3 +294,7 @@ Apr 27, 2021 12:04:31 AM view.MainFrame <init>
 INFO: ---- APP SESSION OPENED ----
 Apr 27, 2021 12:04:53 AM view.MainFrame formWindowClosing
 INFO: ---- APP SESSION CLOSED ----
+May 01, 2021 9:37:08 PM view.MainFrame <init>
+INFO: ---- APP SESSION OPENED ----
+May 01, 2021 9:37:10 PM view.MainFrame formWindowClosing
+INFO: ---- APP SESSION CLOSED ----
